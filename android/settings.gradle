@@ -1,0 +1,3 @@
+rootProject.name = 'GridViewTest'
+
+include ':app'
